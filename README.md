@@ -1,6 +1,6 @@
 ## About
 
-This is a port of JSMin (by Doublas Crockford) to the Go programming language
+This is a port of JSMin (by Douglas Crockford) to the Go programming language
 (http://golang.org/).
 
 ## Installing
